@@ -38,7 +38,7 @@ public class Application {
 		 driver.findElement(By.id("customer.lastName")).sendKeys("Raju");
 		 driver.findElement(By.id("customer.address.street")).sendKeys("KK house");
 		 driver.findElement(By.id("customer.address.city")).sendKeys("Kozhikode");
-		 driver.findElement(By.id("customer.address.state")).sendKeys("Kerala");
+//		 driver.findElement(By.id("customer.address.state")).sendKeys("Kerala");
 		 driver.findElement(By.id("customer.address.zipCode")).sendKeys("234432");
 		 driver.findElement(By.id("customer.phoneNumber")).sendKeys("9287348987");
 		 driver.findElement(By.id("customer.ssn")).sendKeys("777");
